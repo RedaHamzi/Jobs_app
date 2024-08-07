@@ -15,7 +15,7 @@ import { RouterLink } from 'vue-router';
         </div>
         <!-- seperator -->
         <div class="md-col-6 col-12">
-            <div class="card bg-light-green d-flex r-15 column gap-15 w-fit py-25 px-20">
+            <div class="card bg-light-green d-flex r-15 column gap-15 py-25 px-20">
                 <h2 class="fw-700 fs-not-mb-25">For Employers</h2>
                 <p class="fw-500 fs-not-mb-17">List your job to find the perfect developer for the role</p>
                 <RouterLink to="/jobs/add">
